@@ -1,0 +1,11 @@
+pillow
+requests
+tqdm
+torch
+torchvision
+opencv-python
+matplotlib
+pyyaml
+psutil
+scipy
+pandas
