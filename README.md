@@ -1,2 +1,2 @@
 # Image-Classification-exec
-Executable code for image classification
+Source code used to create an executable for image classification
